@@ -1,0 +1,69 @@
+
+body{
+    font-weight: bold;
+    background-image: url('images/4.jpg') ;
+    background-size: cover;
+  
+   
+}
+h1{
+    text-transform: uppercase;
+    font-style:italic
+}
+span{
+
+    color: #90C2E7;
+    text-transform: capitalize;
+    font-style:italic ;
+    /* color: #10B981; */
+}
+p{
+    color: black;
+}
+.Passwords{
+    display: flex;
+    justify-content:space-between;
+
+}
+.Passwords button{
+    color: white ;
+    /* color: #90C2E7; */
+    width: 40%;
+     font-style:italic
+
+}
+.btns{
+    display: flex;
+    justify-content: space-around;
+    
+    
+}
+.main {
+    text-align: center;
+  margin-top: 15%;
+}
+
+#btn-pass2,#btn-pass1{
+    font-size: 12px;
+    overflow: hidden;
+    font-style:italic;
+   
+    
+}
+#btn-pass1{
+    border-left:10px solid #8bd2e8;
+    border-right:10px solid #e95a86;
+}
+#btn-pass2{
+    border-left:10px solid #e95a86;
+    border-right:10px solid #e95a86;
+}
+
+.om{
+    color: #e95a86;
+}
+
+#new-pass{
+    background-color: #e95a86;
+    color: white;
+}
