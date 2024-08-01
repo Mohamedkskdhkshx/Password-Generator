@@ -53,10 +53,14 @@ p{
 #btn-pass1{
     border-left:10px solid #8bd2e8;
     border-right:10px solid #e95a86;
+    border-bottom:2px solid black;
+    border-top:2px solid black;
 }
 #btn-pass2{
     border-left:10px solid #e95a86;
     border-right:10px solid #e95a86;
+    border-bottom:2px solid black;
+    border-top:2px solid black;
 }
 
 .om{
